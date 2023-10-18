@@ -1,0 +1,25 @@
+body{
+    background-color:gray;
+}
+.stopwatch{
+    width: 90%;
+    padding-top: 10px;
+    text-align: center;
+    height:215px;
+    margin: 200px auto 0;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.8);
+    max-width: 450px;
+    background-image: url(background.jpg);
+}
+
+.stopwatch h1{
+    color:black;
+    
+}
+
+.buttons button{
+      padding: 10px;
+      margin: 20px;
+      background-color:brown;
+      color: white;
+}
